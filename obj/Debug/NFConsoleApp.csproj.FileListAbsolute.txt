@@ -1,0 +1,7 @@
+D:\DotNet\22Jan2024\NFConsoleApp\bin\Debug\NFConsoleApp.exe.config
+D:\DotNet\22Jan2024\NFConsoleApp\bin\Debug\NFConsoleApp.exe
+D:\DotNet\22Jan2024\NFConsoleApp\bin\Debug\NFConsoleApp.pdb
+D:\DotNet\22Jan2024\NFConsoleApp\obj\Debug\NFConsoleApp.csproj.AssemblyReference.cache
+D:\DotNet\22Jan2024\NFConsoleApp\obj\Debug\NFConsoleApp.csproj.CoreCompileInputs.cache
+D:\DotNet\22Jan2024\NFConsoleApp\obj\Debug\NFConsoleApp.exe
+D:\DotNet\22Jan2024\NFConsoleApp\obj\Debug\NFConsoleApp.pdb
